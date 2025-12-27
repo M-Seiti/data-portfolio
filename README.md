@@ -28,27 +28,11 @@ Here you can find end-to-end work involving **ETL**, **data cleaning**, **time s
 
 ## 📌 Featured Projects
 
-### 1) Dashboard — Time Series Analytics
-**Repository:** https://github.com/M-Seiti/Dashboard-Series-Temporais  
-**Focus:** Data preparation, time series visualization, and interactive insights.  
-**Key topics:** time series, preprocessing, dashboarding, analytics  
-**Tech stack:** Python, Pandas, (dashboard framework used in the repo)
-
----
-
-### 2) Web Development Final Project
-**Repository:** https://github.com/Rafarockdf/TrabalhoFinalWEB2  
-**Focus:** Full project delivery with a web application structure and teamwork-oriented workflow.  
-**Key topics:** web application, project structure, delivery  
-**Tech stack:** (describe based on the repo contents)
-
----
-
-### 3) NASA Space Apps 2025 — “Will It Rain On My Parade?”
-**Repository:** https://github.com/Rafarockdf/WillItRainOnMyParade_HACKATON_NASA_2025  
-**Focus:** Time series forecasting / ML solution for weather-related planning using real data sources.  
-**Key topics:** data pipeline, forecasting, feature engineering, validation  
-**Tech stack:** Python, Pandas, forecasting/ML tools used in the project
+| Project | What it is | Tech | Link |
+|---|---|---|---|
+| Dashboard — Time Series Analytics | Data prep + time series insights via dashboard | Python, Pandas, Streamlit | https://github.com/M-Seiti/Dashboard-Series-Temporais |
+| Web Development Final Project | Web app project delivery | HTML, CSS, JS, PHP, SQL | https://github.com/Rafarockdf/TrabalhoFinalWEB2 |
+| NASA Space Apps 2025 | Forecasting/ML solution with real data pipeline | Python, Pandas, Prophet | https://github.com/Rafarockdf/WillItRainOnMyParade_HACKATON_NASA_2025 |
 
 ---
 
