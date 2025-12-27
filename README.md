@@ -30,9 +30,9 @@ Here you can find end-to-end work involving **ETL**, **data cleaning**, **time s
 
 | Project | What it is | Tech | Link |
 |---|---|---|---|
-| Dashboard — Time Series Analytics | Data prep + time series insights via dashboard | Python, Pandas, Streamlit | https://github.com/M-Seiti/Dashboard-Series-Temporais |
-| Web Development Final Project | Web app project delivery | HTML, CSS, JS, PHP, SQL | https://github.com/Rafarockdf/TrabalhoFinalWEB2 |
-| NASA Space Apps 2025 | Forecasting/ML solution with real data pipeline | Python, Pandas, Prophet | https://github.com/Rafarockdf/WillItRainOnMyParade_HACKATON_NASA_2025 |
+| Dashboard — Time Series Analytics | Data prep + time series insights via dashboard | Python, Pandas, Streamlit | [**Time Series Dashboard Repository Link**](https://github.com/M-Seiti/Dashboard-Series-Temporais) |
+| Web Development Final Project | Web app project delivery | HTML, CSS, JS, PHP, SQL | [**Web Development Final Project Link**](https://github.com/Rafarockdf/TrabalhoFinalWEB2) |
+| NASA Space Apps 2025 | Forecasting/ML solution with real data pipeline | Python, Pandas, Prophet | [Nasa Space Apps 2025 Repository Link](https://github.com/Rafarockdf/WillItRainOnMyParade_HACKATON_NASA_2025) |
 
 ---
 
