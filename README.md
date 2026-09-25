@@ -68,6 +68,7 @@ aplicação web completa, do banco ao frontend, entregue de ponta a ponta.
 
 [**→ repo**](https://github.com/Rafarockdf/TrabalhoFinalWEB2)
 
+</td>
 **Data Engineering for beginners**<br/>
 <sub>shipped</sub>
 
