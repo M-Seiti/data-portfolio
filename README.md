@@ -69,6 +69,8 @@ aplicação web completa, do banco ao frontend, entregue de ponta a ponta.
 [**→ repo**](https://github.com/Rafarockdf/TrabalhoFinalWEB2)
 
 </td>
+<td width="33%" valign="top">
+     
 **Data Engineering for beginners**<br/>
 <sub>shipped</sub>
 
@@ -77,7 +79,6 @@ Apostila bilíngue sobre Engenharia de Dados.
 <sub>`python` `sql`</sub>
 
 [**→ repo**](https://github.com/M-Seiti/data-engineering-for-beginners)
-
 
 </td>
 </tr>
