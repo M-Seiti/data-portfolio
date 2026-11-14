@@ -36,7 +36,7 @@ that keeps those workflows running end to end.
 <td width="25%" valign="top">
 
 **time series dashboard**<br/>
-<sub>in progress</sub>
+<sub>shipped</sub>
 
 preparação de dados e insights de séries temporais entregues em dashboard interativo.
 
